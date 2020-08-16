@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11504" started-at="2020-08-16T19:49:11 IST" finished-at="2020-08-16T19:49:22 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11504" started-at="2020-08-16T19:49:11 IST" finished-at="2020-08-16T19:49:22 IST">
+      <class name="firsttestngpackage.AdminAutomation">
+        <test-method status="PASS" signature="launchBroswer()[pri:0, instance:firsttestngpackage.AdminAutomation@887af79]" name="launchBroswer" is-config="true" duration-ms="7546" started-at="2020-08-16T19:49:11 IST" finished-at="2020-08-16T19:49:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBroswer -->
+        <test-method status="PASS" signature="login_Pass()[pri:0, instance:firsttestngpackage.AdminAutomation@887af79]" name="login_Pass" duration-ms="886" started-at="2020-08-16T19:49:18 IST" finished-at="2020-08-16T19:49:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_Pass -->
+        <test-method status="PASS" signature="useraccount_login_enabling()[pri:1, instance:firsttestngpackage.AdminAutomation@887af79]" name="useraccount_login_enabling" duration-ms="689" started-at="2020-08-16T19:49:19 IST" finished-at="2020-08-16T19:49:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- useraccount_login_enabling -->
+        <test-method status="PASS" signature="useraccount_features()[pri:2, instance:firsttestngpackage.AdminAutomation@887af79]" name="useraccount_features" duration-ms="721" started-at="2020-08-16T19:49:20 IST" finished-at="2020-08-16T19:49:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- useraccount_features -->
+        <test-method status="PASS" signature="checkbookRequests()[pri:3, instance:firsttestngpackage.AdminAutomation@887af79]" name="checkbookRequests" duration-ms="548" started-at="2020-08-16T19:49:21 IST" finished-at="2020-08-16T19:49:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkbookRequests -->
+        <test-method status="PASS" signature="authorization()[pri:4, instance:firsttestngpackage.AdminAutomation@887af79]" name="authorization" duration-ms="753" started-at="2020-08-16T19:49:21 IST" finished-at="2020-08-16T19:49:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- authorization -->
+        <test-method status="PASS" signature="logout()[pri:5, instance:firsttestngpackage.AdminAutomation@887af79]" name="logout" duration-ms="267" started-at="2020-08-16T19:49:22 IST" finished-at="2020-08-16T19:49:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- firsttestngpackage.AdminAutomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
